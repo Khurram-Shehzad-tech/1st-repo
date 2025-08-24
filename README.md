@@ -1,2 +1,2 @@
 # 1st-repo
-My firts repository
+My firts repository with a title of 1st-repo
